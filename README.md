@@ -56,4 +56,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/aafiyasheikh00-nrg/leetcode-solutions-python/tree/master/0183-customers-who-never-order) |
+| [1873-calculate-special-bonus](https://github.com/aafiyasheikh00-nrg/leetcode-solutions-python/tree/master/1873-calculate-special-bonus) |
 <!---LeetCode Topics End-->
