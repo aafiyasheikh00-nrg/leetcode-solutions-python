@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/aafiyasheikh00-nrg/leetcode-solutions-python/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/aafiyasheikh00-nrg/leetcode-solutions-python/tree/master/0177-nth-highest-salary) |
 | [0183-customers-who-never-order](https://github.com/aafiyasheikh00-nrg/leetcode-solutions-python/tree/master/0183-customers-who-never-order) |
+| [0196-delete-duplicate-emails](https://github.com/aafiyasheikh00-nrg/leetcode-solutions-python/tree/master/0196-delete-duplicate-emails) |
 | [1517-find-users-with-valid-e-mails](https://github.com/aafiyasheikh00-nrg/leetcode-solutions-python/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/aafiyasheikh00-nrg/leetcode-solutions-python/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/aafiyasheikh00-nrg/leetcode-solutions-python/tree/master/1667-fix-names-in-a-table) |
